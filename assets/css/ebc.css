@@ -1,0 +1,13 @@
+/*Written by Claudio Merino From El Buen Camino SpA for Vietur.com.ar 
+Customization file for bootstrap 3 and get-shit-done framework*/
+
+.navbar-ct-vietur {background-color: rgba(7, 41, 98, 0.98);}
+
+.navbar p{font-size: 14px;}
+.navbar-nav {float: none; margin: 0 auto; display: table;}
+.nav > li{padding: 0 15px;}
+
+.logo-nav{padding: 15px 0 15px 0; display: block;}
+
+.logos-footer{float: none; margin: 0 auto; text-align: center;}
+.logos-footer li{list-style: none; display: inline; padding: 5px;}
