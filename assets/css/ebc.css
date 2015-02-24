@@ -11,8 +11,18 @@ Customization file for bootstrap 3 and get-shit-done framework*/
 .logo-nav{padding: 15px 0 15px 0; display: block;}
 .telefono {font-size: 18px; font-weight: 600; margin-left: 15px;}
 .taxes {font-size: 10px; display: block; margin: -5px; }
-.card-horizontal .image {border-radius: 0 6px 6px 0; height: 300px;}
+
+
+.card-horizontal .image {border-radius: 0 6px 6px 0 !important; height: 300px;}
 .card-horizontal .content {padding: 15px; }
+
+.card .image{border-radius: 6px; height: 300px; }
+.card h3{display: block; height: 50px; font-size: 14px; text-align: center; color: white; border-radius: 6px 6px 0 0; margin-top: 0px; padding-top: 10px; padding-bottom: 20px; text-transform: uppercase; font-weight: 500;}
+.card-footer {background-color: white; display: block; margin-top: 200px; height: 50px; border: 1px solid #bbb; border-radius: 0 0 6px 6px;}
+
+.card.america h3{background-color: #c81a27; }
+.card.europa h3{background-color: #7e1686; }
+
 .carousel-control.left {margin-left: -45px;}
 .carousel-control.right {right: -30px;}
 .carousel-control .icon-prev, .carousel-control .icon-next, .carousel-control .fa, .carousel-control .fa {top: 40%;}
@@ -34,6 +44,10 @@ Customization file for bootstrap 3 and get-shit-done framework*/
 .ico-alerta {display: inline-block; background: url('../img/ico_alerta.png') no-repeat top center; width: 16px; height: 16px; padding:4px;}
 .ico-chat {display: inline-block; background: url('../img/ico_chat.png') no-repeat top center; width: 19px; height: 16px; padding:4px;}
 .ico-ayuda {display: inline-block; background: url('../img/ico_alerta.png') no-repeat top center; width: 16px; height: 16px; padding:4px;}
+
+
+.title-home{background-color: #2f2f2f; color: white;}
+.title-home h2{font-size: 18px; font-weight: 400; margin: 10px;}
 
 .logos-footer{float: none; margin: 0 auto; text-align: center;}
 .logos-footer li{list-style: none; display: inline; padding: 5px;}
