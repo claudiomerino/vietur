@@ -6,8 +6,36 @@ Customization file for bootstrap 3 and get-shit-done framework*/
 .navbar p{font-size: 14px;}
 .navbar-nav {float: none; margin: 0 auto; display: table;}
 .nav > li{padding: 0 15px;}
+.subnav p{margin: 0;}
 
 .logo-nav{padding: 15px 0 15px 0; display: block;}
+.telefono {font-size: 18px; font-weight: 600; margin-left: 15px;}
+.taxes {font-size: 10px; display: block; margin: -5px; }
+.card-horizontal .image {border-radius: 0 6px 6px 0; height: 300px;}
+.card-horizontal .content {padding: 15px; }
+.carousel-control.left {margin-left: -45px;}
+.carousel-control.right {right: -30px;}
+.carousel-control .icon-prev, .carousel-control .icon-next, .carousel-control .fa, .carousel-control .fa {top: 40%;}
+.carousel-control{text-shadow: none; color: #bbb;}
+.carousel-control:hover{color: #999;}
+
+.ico-circuito {display: inline-block; background: url('../img/ico_circuito.png') no-repeat top center; width: 26px; height: 26px; padding:4px;}
+.ico-circuito-aereo {display: inline-block; background: url('../img/ico_circuitoaereo.png') no-repeat top center; width: 30px; height: 29px; margin-bottom: -3px;}
+.ico-vuelos {display: inline-block; background: url('../img/ico_vuelos.png') no-repeat top center; width: 26px; height: 26px; padding:4px;}
+.ico-hoteles {display: inline-block; background: url('../img/ico_hoteles.png') no-repeat top center; width: 26px; height: 26px; padding:4px;}
+.ico-traslados {display: inline-block; background: url('../img/ico_traslados.png') no-repeat top center; width: 26px; height: 26px; padding:4px;}
+.ico-servicios {display: inline-block; background: url('../img/ico_servicios.png') no-repeat top center; width: 26px; height: 26px; padding:4px;}
+.ico-autos {display: inline-block; background: url('../img/ico_autos.png') no-repeat top center; width: 26px; height: 26px; padding:4px;}
+.ico-trenes {display: inline-block; background: url('../img/ico_trenes.png') no-repeat top center; width: 26px; height: 26px; padding:4px;}
+.ico-cruceros {display: inline-block; background: url('../img/ico_cruceros.png') no-repeat top center; width: 26px; height: 26px; padding:4px;}
+.ico-seguros {display: inline-block; background: url('../img/ico_seguros.png') no-repeat top center; width: 26px; height: 26px; padding:4px;}
+.ico-perfil {display: inline-block; background: url('../img/ico_perfil.png') no-repeat top center; width: 16px; height: 16px; padding:4px;}
+.ico-carro {display: inline-block; background: url('../img/ico_carro.png') no-repeat top center; width: 20px; height: 16px; padding:4px;}
+.ico-alerta {display: inline-block; background: url('../img/ico_alerta.png') no-repeat top center; width: 16px; height: 16px; padding:4px;}
+.ico-chat {display: inline-block; background: url('../img/ico_chat.png') no-repeat top center; width: 19px; height: 16px; padding:4px;}
+.ico-ayuda {display: inline-block; background: url('../img/ico_alerta.png') no-repeat top center; width: 16px; height: 16px; padding:4px;}
 
 .logos-footer{float: none; margin: 0 auto; text-align: center;}
 .logos-footer li{list-style: none; display: inline; padding: 5px;}
+
+.quince-m-t {margin-top: 15px;}
